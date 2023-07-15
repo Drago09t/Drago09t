@@ -2,7 +2,7 @@
 ## :wave: Hello there! Welcome to my profile
 ![](https://komarev.com/ghpvc/?username=peterhanania)
 
-Hey! Welcome to my profile. My name is Peter, a full-stack developer working on several open-sourced projects that you can find in here!
+Hey! Welcome to my profile. My name is drago, a full-stack developer working on several open-sourced projects that you can find in here!
 
 
 ## 🌐 Socials:
